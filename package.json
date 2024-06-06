@@ -1,0 +1,25 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js --exitcrash",
+    "confirm": "nodemon confirm-txns.js --exitcrash"
+ },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "forever": "^4.0.3",
+    "node-cron": "^3.0.2",
+    "node-localstorage": "^3.0.5",
+    "puppeteer": "^21.6.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

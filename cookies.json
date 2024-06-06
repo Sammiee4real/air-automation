@@ -1,0 +1,62 @@
+[
+  {
+    "name": ".AspNetCore.Session",
+    "value": "CfDJ8GRSyAEc43hCptEdfPncTZG179xZf2rm32LWb1bpTCIrQmSkrWAe7BRv5AjAcELkUY97lRJ4w75EQKmSr%2FChUh%2F10a5WSY2qSZ7aMy7FzxZJ8S3vf%2F3xiXcqSQ1hsjbskl2CpGLSkxiUkN05ErPaLh0ASlic8EwSicV058PzKLTW",
+    "domain": "selfcare.airtel.com.ng",
+    "path": "/",
+    "expires": -1,
+    "size": 201,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "None",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "edusuite",
+    "value": "CfDJ8GRSyAEc43hCptEdfPncTZFmm4on9fRAzZXsNkxtstBm5N42mXXj6YevaDvDUULq4-XOc7geplPgIq9MH-da2pcSl2vSBt8ZV3gyamTneWWMaZfnEKhbrrQ8ZzcrYaUUkT-Z3K8Vrv2Cvmb0uOcgo0fu8qSx47-sUFamh5xMkAiKsccdvAjHBk87RNDnx1M2gVUuoLDB_9T7VS7BMpc-wzmja2BzDOt1msxUvN3IiNmS1LPSoowzI9PJNc0jH4gG0gsujq6wWFSAiWTKfk9Ho7JG0SFDfxWrQm7o_gzPBs-E4fG2DGz-_YTGvcATbH53M3drWairaJ8NtT7PuL8cs6o8Onn0NiW3zPJfiOf6um_TooxnoBa39riH6DQ7kFkt8vLtQl3uAqgfVzObEjD6Fq_cZ3-1b4xABQri7hcYqhG1QGQ1eK5MicagwMyIlxjFY32gT30eILvXP0y-kH2PEFPiMOzOCcwvhetZ4CCUE897mZV3LTmSug7wOvQEj5Q8BYa9l5ufFaToi25Zh39ZJ2LzyWpJt9sXfKWcU7K-UxNCcUwXX-GMgUvdGIpMBICLIiqHcKIsQeF2xHm_tj7ruKUEabh_JvYGCOjnkffGvtE2aiq2NI53YLi1Ggvh7HhrTrjhLnKGyWRjopghy8CNRVA",
+    "domain": "selfcare.airtel.com.ng",
+    "path": "/",
+    "expires": 1715706835.676649,
+    "size": 675,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": ".AspNetCore.Identity.Application",
+    "value": "CfDJ8GRSyAEc43hCptEdfPncTZFuv-_AS12P_p5R69EgWm0YLnt1K5uEov_Yx62GVWOm6JP4mrTN0NS5emzEFg7fStiJfCv_4MgHaFjhEbpaRuSB-djOaGxdbVjedHbjyeeHewdXZvtZU7VhV1tw2PzrnHFSlgwdt8hqM45L2jeDefg_xSFK249101XGcisXcgwEeVJNVp3JSrAW22uE3jLqg5_7YcoaVtMU9P113ilvcKVU_5W-ppl7qRHu98enBZ36asweN_4arz2X7sZVSuPnvUvgRv62Xbq_2nmN_fWPnKfin65jFzEkvCNUItADfxIR02i_B7zhnDkKCeiLptDzvxNQBvomLTyw4FPDWnp7hjetMQiWPmjzmTQ1A4Ml676766m2uNMjfkiWnG4UptKqc86ryId-ULXgSVfHIR0Vedx0N66fqOP_sHs7yZjri2In8pSxf3yeO2dfHQpSbr7LUozKq0v534N_98v1XQRFnDN4eZnp7y1z-BtivYlrSEFT8Vq2XbnZLcc1Aj8sdzK6g-dn82owa7ecSnUqilKMWCa7nV5nd68iPzieYk7GHg6mkwXX0c1cMHy7HtkTcA_2_q0IVV_2wJ0Arv7BFDxl7-9U",
+    "domain": "selfcare.airtel.com.ng",
+    "path": "/",
+    "expires": -1,
+    "size": 656,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "Lax",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": ".AspNetCore.Antiforgery.AGIWbCYHWMU",
+    "value": "CfDJ8GRSyAEc43hCptEdfPncTZGe7F1sJ-VRSchbTtYv1ZU5aLuWEyNfZPzAH-D5UWNWqmrkjM6cB1Pku7y3HuZMdeHofAxfmh2vE7bsFyTbWf6yljK9FILZGxMFrJ0rIPuE4_ASftNYIHBeWv2q7345lCo",
+    "domain": "selfcare.airtel.com.ng",
+    "path": "/",
+    "expires": -1,
+    "size": 190,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "None",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
