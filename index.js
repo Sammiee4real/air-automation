@@ -22,8 +22,8 @@ const sleep = (millsec) => {
 
 let resetCookieCount = 0; 
 
-const baseApiUrl = 'http://127.0.0.1:8000/api/'; // LOCAL
-// const baseApiUrl = 'https://superadmin.samicsub.com/api/'; // LIVE
+// const baseApiUrl = 'http://127.0.0.1:8000/api/'; // LOCAL
+const baseApiUrl = 'https://superadmin.samicsub.com/api/'; // LIVE
 
 //cron to get databalance exclusivelyso
 async function getDataBalance(txnId,balanceType){
